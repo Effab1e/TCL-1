@@ -91,5 +91,7 @@ Useful if someone wants to know how Faruzan's damage is affected by buffs.
 
 ## Synergies/Interactions
 
+import GoubaSwirl from './\_common/goubaswirl.md';
+
 * Faruzan's Pressurized Collapse can trigger a Guoba Swirl. - [Rathalos#2875](https://imgur.com/dvSdeLC)
 * Faruzan can reliably hit all of Timmie's Pigeons. - [Soul Fish#8421](https://youtu.be/qAi7NOvSdJc)
